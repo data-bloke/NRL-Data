@@ -4,7 +4,7 @@
 This project is a Python webscraper for NRL data, and provides a TensorFlow machine learning model in Jupyter Notebook for NRL related predictions. 
 
 ## Data
-All data for this project is hosted on [this website](https://nrlpredictions.net/sport). I personally host this website with all data being stored on a S3 instance. 
+All data for this project is available on [this website](https://nrlpredictions.net/sport); beauhobba personally hosts this website with all data being stored on an AWS S3 instance. 
 
 ## Workspace
 Machine Learning model will execute using [Jupyter Notebook](https://jupyter.org/) (ipynb). Underlying data is scraped by directly executing Python files through CLI or other interface. 
