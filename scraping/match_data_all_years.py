@@ -4,7 +4,7 @@
 
 
 # Imports
-from nrl.scraping.utilities.get_nrl_data import get_nrl_data
+from utilities.get_nrl_data import get_nrl_data
 import json
 
 
