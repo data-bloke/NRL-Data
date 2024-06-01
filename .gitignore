@@ -17,3 +17,6 @@ __pycache__/
 *.xlsm
 *.zip
 *.zip
+
+# scratch files
+scratch.py
